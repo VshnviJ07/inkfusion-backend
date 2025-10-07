@@ -64,8 +64,12 @@ DELETE /api/notes/deletenote/:id - Delete a note
 🔗 Frontend Integration
 
 For frontend setup, visit the InkFusion Frontend Repository
-.
 Make sure to update the .env file in frontend with the backend URL if deployed separately.
+
+
+frontend repository:-
+
+https://github.com/VshnviJ07/inkfusion-frontend/tree/main
 
 👩‍💻 Author
 
